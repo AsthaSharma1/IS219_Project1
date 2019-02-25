@@ -3,14 +3,15 @@
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
-header {
+.header {
   padding: 106px 0 100px;
+
 
 }
 
 
 section {
   padding: 150px 0;
-  background-color: #31a1d6;
+  background-color: #ede890;
 }
 
